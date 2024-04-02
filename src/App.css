@@ -1,0 +1,56 @@
+.square{
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  height: 100px;
+  background: red;
+}
+
+.circle{
+  width: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  border-radius: 50%;
+  background: yellow;
+  margin: 5px;
+}
+
+.heading{
+  font-weight: bold;
+}
+
+.card{
+  padding: 25px;
+}
+
+.content{
+  font-size: 12px;
+}
+
+.content-disable{
+  color: rgb(175, 168, 168);
+  font-size: 12px;
+}
+.disable-active{
+  background: rgb(0, 140, 255);
+ color: #fff;
+ border: 1px solid rgb(0, 140, 255);
+ border-radius: 25px;
+ font-size: 12px;
+ margin-top: 15px;
+ padding: 10px 20px;
+}
+.disable-btn{
+ background: rgb(46, 134, 206);
+ color: #fff;
+ border: 1px solid rgb(46, 134, 206);
+ border-radius: 25px;
+ font-size: 12px;
+ margin-top: 15px;
+ padding: 10px 20px;
+}
